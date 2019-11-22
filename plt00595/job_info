@@ -234,8 +234,6 @@ Microphysics git describe: 19.11-51-g8e20374e-dirty
                                small_x =     0.1000000000E-29
                             use_tables = F
                     use_c12ag_deboer17 = F
-  
- fortin parameters:
                                   frac =     0.5000000000    
                                  rho_1 =      1.000000000    
                                  rho_2 =      2.000000000    

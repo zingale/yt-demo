@@ -1,2 +1,0 @@
-wget -q http://bender.astro.sunysb.edu/random/yt-sample.tgz
-tar xf yt-sample.tgz 
